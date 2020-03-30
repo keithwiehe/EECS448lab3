@@ -1,0 +1,14 @@
+body
+{
+  background-image: url(https://media.giphy.com/media/26FL9qBVhZVxil4o8/giphy.gif);
+  background-size: 100%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+p
+{
+    background-color: blue;
+    color:gold;
+    font-family:trebuchet;
+    font-size:22pt;
+}
